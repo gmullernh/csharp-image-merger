@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ConsoleImageMerger/.vs/ConsoleImageMerger/v16
+/ConsoleImageMerger/bin/Debug/netcoreapp3.1
+/ConsoleImageMerger/obj
+/LibraryImageMerger/bin/Debug/netcoreapp3.1
+/LibraryImageMerger/obj

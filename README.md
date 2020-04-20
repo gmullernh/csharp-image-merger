@@ -1,2 +1,2 @@
 # ImageMerger
-An implementation of ImageProcessor for image mergin and standardization
+An implementation of [ImageProcessor](https://imageprocessor.org/) for image merging and standardization.

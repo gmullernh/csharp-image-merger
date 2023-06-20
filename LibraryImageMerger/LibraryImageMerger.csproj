@@ -6,7 +6,7 @@
 
   <ItemGroup>
     <PackageReference Include="ImageProcessor" Version="2.9.0" />
-    <PackageReference Include="System.Drawing.Common" Version="4.7.0" />
+    <PackageReference Include="System.Drawing.Common" Version="4.7.2" />
   </ItemGroup>
 
 </Project>
